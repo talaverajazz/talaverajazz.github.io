@@ -10,8 +10,6 @@
 body {
   font-family: Rubik;
 }
-.engine{display:none !important;}
-
 .display-1 {
   font-family: 'Fjalla One', sans-serif;
   font-size: 3rem;
@@ -865,10 +863,6 @@ section.lazy-placeholder:after {
 .cid-s4OV5dzFjZ .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-s4OV5dzFjZ .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-s4OV5dzFjZ .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-s4OV5dzFjZ .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s4OV5dzFjZ .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -970,10 +964,6 @@ section.lazy-placeholder:after {
   .cid-s4OV5dzFjZ .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-s4OV5dzFjZ .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-s4OV5dzFjZ .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-s4OV5dzFjZ .navbar-collapse.collapsing .navbar-buttons,
   .cid-s4OV5dzFjZ .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1058,7 +1048,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s43RrCxUkn H1 {
-  color: #ffffff;
+  color: #efefef;
   text-align: right;
 }
 .cid-s43RrCxUkn H3 {
@@ -1069,6 +1059,76 @@ section.lazy-placeholder:after {
 .cid-s43RrCxUkn .mbr-section-btn {
   text-align: right;
   color: #ffffff;
+}
+.cid-s4UXzZOzaY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-s4UXzZOzaY .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-s4UXzZOzaY h4 {
+  font-weight: 500;
+}
+.cid-s4UXzZOzaY p {
+  color: #232323;
+}
+.cid-s4UXzZOzaY .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-s4UXzZOzaY .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-s4UXzZOzaY .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-s4UXzZOzaY .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-s4UXzZOzaY .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-s4UXzZOzaY .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-s4UXzZOzaY .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s4UXzZOzaY .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-s4UXzZOzaY .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-s4UXzZOzaY .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
+.cid-s4UXzZOzaY .text1 {
+  text-align: right;
 }
 .cid-s4P6idYhhr {
   padding-top: 30px;
@@ -1087,7 +1147,7 @@ section.lazy-placeholder:after {
 }
 .cid-s4P6idYhhr .mbr-text,
 .cid-s4P6idYhhr .mbr-section-btn {
-  text-align: left;
+  text-align: right;
   color: #232323;
 }
 .cid-s4P6j89aqm {
@@ -1155,6 +1215,203 @@ section.lazy-placeholder:after {
 .cid-s4P6j89aqm .mbr-gallery-item > div > span {
   color: #ffffff;
 }
+.cid-s4UOJFRW85 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-s4V0UzI8Tz {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/2020.18.festi.portada.jpg");
+}
+.cid-s4V0UzI8Tz .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-s4V0UzI8Tz .timeline-text-content {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-right: 2rem;
+  transition: all .4s;
+}
+.cid-s4V0UzI8Tz .timeline-text-content p {
+  margin-bottom: 0;
+}
+.cid-s4V0UzI8Tz .timeline-element {
+  margin-bottom: 50px;
+  position: relative;
+  word-wrap: break-word;
+  word-break: break-word;
+  display: -webkit-flex;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+}
+.cid-s4V0UzI8Tz .timeline-element:hover .timeline-text-content {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.cid-s4V0UzI8Tz .reverse {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-s4V0UzI8Tz .reverse .timeline-text-content {
+  margin-left: 2rem;
+  margin-right: 0;
+}
+.cid-s4V0UzI8Tz .iconsBackground {
+  position: absolute;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #ffffff;
+  top: 20px;
+  margin-left: -30px;
+}
+.cid-s4V0UzI8Tz .mbr-iconfont {
+  position: absolute;
+  text-align: center;
+  font-size: 35px;
+  display: inline-block;
+  z-index: 3;
+  top: 13px;
+  left: 13px;
+}
+.cid-s4V0UzI8Tz .separline:before {
+  top: 20px;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  width: 2px;
+  background-color: #ffffff;
+  left: calc(50% - 1px);
+  height: calc(100% + 4rem);
+}
+@media (max-width: 768px) {
+  .cid-s4V0UzI8Tz .iconsBackground {
+    left: 1.5rem;
+  }
+  .cid-s4V0UzI8Tz .separline:before {
+    left: calc(1.5rem - 1px);
+  }
+  .cid-s4V0UzI8Tz .timeline-text-content {
+    margin-left: 3rem !important;
+    margin-right: 0 !important;
+  }
+  .cid-s4V0UzI8Tz .reverse .timeline-text-content {
+    margin-right: 0 !important;
+  }
+}
+.cid-s4V0UzI8Tz .reverseTimeline {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.cid-s4V0UzI8Tz .mbr-section-title {
+  text-align: center;
+  color: #232323;
+}
+.cid-s4V0UzI8Tz .mbr-timeline-text {
+  text-align: right;
+}
+.cid-s4USC4tTfj {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/2020.18.festi.portada.jpeg");
+}
+.cid-s4USC4tTfj .mbr-section-subtitle {
+  color: #232323;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-s4USC4tTfj .timeline-text-content {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-right: 2rem;
+  transition: all .4s;
+}
+.cid-s4USC4tTfj .timeline-text-content p {
+  margin-bottom: 0;
+}
+.cid-s4USC4tTfj .timeline-element {
+  margin-bottom: 50px;
+  position: relative;
+  word-wrap: break-word;
+  word-break: break-word;
+  display: -webkit-flex;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+}
+.cid-s4USC4tTfj .timeline-element:hover .timeline-text-content {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.cid-s4USC4tTfj .reverse {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-s4USC4tTfj .reverse .timeline-text-content {
+  margin-left: 2rem;
+  margin-right: 0;
+}
+.cid-s4USC4tTfj .iconsBackground {
+  position: absolute;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #ffffff;
+  top: 20px;
+  margin-left: -30px;
+}
+.cid-s4USC4tTfj .mbr-iconfont {
+  position: absolute;
+  text-align: center;
+  font-size: 35px;
+  display: inline-block;
+  z-index: 3;
+  top: 13px;
+  left: 13px;
+}
+.cid-s4USC4tTfj .separline:before {
+  top: 20px;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  width: 2px;
+  background-color: #ffffff;
+  left: calc(50% - 1px);
+  height: calc(100% + 4rem);
+}
+@media (max-width: 768px) {
+  .cid-s4USC4tTfj .iconsBackground {
+    left: 1.5rem;
+  }
+  .cid-s4USC4tTfj .separline:before {
+    left: calc(1.5rem - 1px);
+  }
+  .cid-s4USC4tTfj .timeline-text-content {
+    margin-left: 3rem !important;
+    margin-right: 0 !important;
+  }
+  .cid-s4USC4tTfj .reverse .timeline-text-content {
+    margin-right: 0 !important;
+  }
+}
+.cid-s4USC4tTfj .reverseTimeline {
+  display: flex;
+  flex-direction: column-reverse;
+}
+.cid-s4USC4tTfj .mbr-timeline-text {
+  text-align: right;
+}
 .cid-s43JmEXZHk {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1182,6 +1439,7 @@ section.lazy-placeholder:after {
 .cid-s4QyA7Obut .mbr-text,
 .cid-s4QyA7Obut .mbr-section-btn {
   color: #efefef;
+  text-align: right;
 }
 .cid-s43JylssS1 {
   padding-top: 30px;
