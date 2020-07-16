@@ -10,6 +10,8 @@
 body {
   font-family: Rubik;
 }
+.engine{display:none !important;}
+
 .display-1 {
   font-family: 'Fjalla One', sans-serif;
   font-size: 3rem;
