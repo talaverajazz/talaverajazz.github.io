@@ -1089,7 +1089,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-s4P6j89aqm {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #efefef;
 }
@@ -1154,7 +1154,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s43JmEXZHk {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background: linear-gradient(0deg, #ffffff, #efefef);
 }
@@ -1169,8 +1169,20 @@ section.lazy-placeholder:after {
   color: #232323;
   text-align: center;
 }
+.cid-s4QyA7Obut {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/18festi2020cartel1.jpg");
+}
+.cid-s4QyA7Obut H2 {
+  color: #efefef;
+}
+.cid-s4QyA7Obut .mbr-text,
+.cid-s4QyA7Obut .mbr-section-btn {
+  color: #efefef;
+}
 .cid-s43JylssS1 {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
@@ -1659,10 +1671,6 @@ section.lazy-placeholder:after {
 .cid-s4OV5dzFjZ .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-s4OV5dzFjZ .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-s4OV5dzFjZ .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-s4OV5dzFjZ .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-s4OV5dzFjZ .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1763,10 +1771,6 @@ section.lazy-placeholder:after {
   .cid-s4OV5dzFjZ .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-s4OV5dzFjZ .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-s4OV5dzFjZ .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-s4OV5dzFjZ .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-s4OV5dzFjZ .navbar-collapse.collapsing .navbar-buttons,
   .cid-s4OV5dzFjZ .navbar-collapse.show .navbar-buttons {
