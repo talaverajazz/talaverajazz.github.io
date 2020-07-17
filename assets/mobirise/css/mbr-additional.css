@@ -531,9 +531,6 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
   font-family: 'Source Code Pro', monospace;
   font-size: 1rem;
@@ -1128,6 +1125,13 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-s4UXzZOzaY .text1 {
+  text-align: left;
+}
+.cid-s4UXzZOzaY H2 {
+  text-align: right;
+}
+.cid-s4UXzZOzaY .text2,
+.cid-s4UXzZOzaY .mbr-section-btn {
   text-align: right;
 }
 .cid-s4P6idYhhr {
@@ -1176,11 +1180,11 @@ section.lazy-placeholder:after {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #0f7699;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #0f7699, #55b4d4) !important;
+  background: linear-gradient(to left, #232323, #55b4d4) !important;
 }
 .cid-s4P6j89aqm .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -1206,11 +1210,11 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #0f7699 !important;
+  background: #232323 !important;
   opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #0f7699, #55b4d4) !important;
+  background: linear-gradient(to left, #232323, #55b4d4) !important;
 }
 .cid-s4P6j89aqm .mbr-gallery-item > div > span {
   color: #ffffff;
