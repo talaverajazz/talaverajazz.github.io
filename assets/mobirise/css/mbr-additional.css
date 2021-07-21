@@ -1045,7 +1045,7 @@ section.lazy-placeholder:after {
 .cid-sDI1CJ8BAi {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/19festi.inauguracion-1.jpeg");
 }
 @media (min-width: 992px) {
   .cid-sDI1CJ8BAi .mbr-figure {
@@ -1063,14 +1063,14 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sDI1CJ8BAi H1 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-sDI1CJ8BAi .mbr-text,
 .cid-sDI1CJ8BAi .mbr-section-btn {
-  color: #232323;
+  color: #efefef;
 }
 .cid-sDI1CJ8BAi H3 {
-  color: #232323;
+  color: #efefef;
   text-align: right;
 }
 .cid-sDISnBsDeO {
@@ -1153,6 +1153,16 @@ section.lazy-placeholder:after {
 .cid-sDHvrDZxJX .mbr-gallery-item > div > span {
   color: #ffffff;
 }
+.cid-sDIZGsjqYu {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-sDIZGsjqYu .mbr-text,
+.cid-sDIZGsjqYu .mbr-section-btn {
+  color: #767676;
+  text-align: left;
+}
 .cid-sDHTK0eeLj {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1189,16 +1199,6 @@ section.lazy-placeholder:after {
   .cid-sDHTK0eeLj .card:not(.last-child) {
     padding-bottom: 2rem;
   }
-}
-.cid-sDIZGsjqYu {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-sDIZGsjqYu .mbr-text,
-.cid-sDIZGsjqYu .mbr-section-btn {
-  color: #767676;
-  text-align: left;
 }
 .cid-s5QDEvcZ4A {
   padding-top: 30px;
