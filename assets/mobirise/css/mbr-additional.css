@@ -1045,7 +1045,7 @@ section.lazy-placeholder:after {
 .cid-sDI1CJ8BAi {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/19festi.inauguracion-1.jpeg");
+  background-image: url("../../../assets/images/19festi.logo2021.jpeg");
 }
 @media (min-width: 992px) {
   .cid-sDI1CJ8BAi .mbr-figure {
@@ -1165,7 +1165,7 @@ section.lazy-placeholder:after {
 }
 .cid-sDHTK0eeLj {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/imagen2021.jpeg");
 }
 .cid-sDHTK0eeLj .card-box {
@@ -1194,10 +1194,6 @@ section.lazy-placeholder:after {
 }
 .cid-sDHTK0eeLj .card-wrapper {
   height: 100%;
-  background: #ffffff;
-}
-.cid-sDHTK0eeLj .card-wrapper .card-box {
-  padding: 0 2rem 2rem;
 }
 @media (max-width: 767px) {
   .cid-sDHTK0eeLj .card:not(.last-child) {
