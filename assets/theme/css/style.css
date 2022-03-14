@@ -16,7 +16,7 @@ section,
 .container-fluid {
   position: relative;
   word-wrap: break-word;
-  display:none;
+  visibility:hidden;
 }
 
 a.mbr-iconfont:hover {
