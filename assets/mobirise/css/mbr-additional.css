@@ -852,6 +852,44 @@ a {
   text-align: center;
   color: #bbbbbb;
 }
+.cid-tb5UuhWMan {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #fafafa;
+}
+.cid-tb5UuhWMan .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-tb5UuhWMan .currentcost {
+  color: #232323;
+}
+.cid-tb5UuhWMan .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-tb5UuhWMan .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+    padding-left: 4rem;
+    padding-right: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tb5UuhWMan .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tb5UuhWMan .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tb5UuhWMan .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-taZuTp9C8i {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -897,6 +935,10 @@ a {
 }
 .cid-tb1hvg8drg {
   background-image: url("../../../assets/images/20festi.portada.jpg");
+}
+.cid-tb1hvg8drg .mbr-text,
+.cid-tb1hvg8drg .mbr-section-btn {
+  color: #4479d9;
 }
 .cid-taZuSzhTQl {
   padding-top: 15px;
