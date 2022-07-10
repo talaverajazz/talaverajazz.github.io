@@ -1,1 +1,9 @@
 #tarari{display: none !important;}
+
+@media (max-width: 480px) {
+ .cid-taZuTp9C8i .team-item .item-image img {
+    width: 60%;
+    display: inline-block;
+}
+}
+
