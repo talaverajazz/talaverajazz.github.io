@@ -687,7 +687,7 @@ a {
   color: #ff9966;
 }
 .cid-tb1hvg8drg .mbr-section-title {
-  color: #98dee8;
+  color: #767676;
 }
 .cid-tb1jVyaKcF {
   padding-top: 2rem;
@@ -728,13 +728,19 @@ a {
   text-align: center;
   color: #bbbbbb;
 }
-.cid-tbbFbIek8P {
-  padding-top: 2rem;
-  padding-bottom: 0rem;
+.cid-tbtNvVhEe0 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #fafafa;
 }
-.cid-tbbFbIek8P .mbr-section-title {
-  color: #232323;
+.cid-tbtNvVhEe0 .line {
+  background-color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tbtNvVhEe0 .mbr-text {
+  color: #176a86;
 }
 .cid-tbdZ7cw0zS {
   padding-top: 0rem;
@@ -776,6 +782,54 @@ a {
 .cid-tbdZ7cw0zS .cost,
 .cid-tbdZ7cw0zS .mbr-section-btn {
   text-align: left;
+  color: #176a86;
+}
+.cid-tbdZ7cw0zS H5 {
+  color: #176a86;
+}
+.cid-tbtWfgkyVz {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #fafafa;
+}
+.cid-tbtWfgkyVz .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-tbtWfgkyVz .currentcost {
+  color: #232323;
+}
+.cid-tbtWfgkyVz .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-tbtWfgkyVz .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tbtWfgkyVz .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tbtWfgkyVz .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tbtWfgkyVz .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tbtWfgkyVz H5 {
+  color: #176a86;
+}
+.cid-tbtWfgkyVz .mbr-text,
+.cid-tbtWfgkyVz .cost,
+.cid-tbtWfgkyVz .mbr-section-btn {
+  color: #176a86;
 }
 .cid-tbnChBBqWM {
   padding-top: 0rem;
@@ -813,9 +867,17 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-tbnChBBqWM H5 {
+  color: #176a86;
+}
+.cid-tbnChBBqWM .mbr-text,
+.cid-tbnChBBqWM .cost,
+.cid-tbnChBBqWM .mbr-section-btn {
+  color: #176a86;
+}
 .cid-tb5UuhWMan {
   padding-top: 0rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-tb5UuhWMan .oldcost {
@@ -853,9 +915,72 @@ a {
 .cid-tb5UuhWMan .cost,
 .cid-tb5UuhWMan .mbr-section-btn {
   text-align: left;
+  color: #176a86;
 }
 .cid-tb5UuhWMan H5 {
   text-align: left;
+  color: #176a86;
+}
+.cid-tbtEY57aaq {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #fafafa;
+}
+.cid-tbtEY57aaq .line {
+  background-color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tbtEY57aaq .mbr-text {
+  color: #176a86;
+}
+.cid-tbtDSurFK9 {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background-color: #fafafa;
+}
+.cid-tbtDSurFK9 .content-wrapper {
+  background: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tbtDSurFK9 .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-tbtDSurFK9 .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tbtDSurFK9 .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tbtDSurFK9 .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tbtDSurFK9 .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-tbtDSurFK9 .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-tbtDSurFK9 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tbtDSurFK9 .mbr-text,
+.cid-tbtDSurFK9 .mbr-section-btn {
+  text-align: right;
+  color: #176a86;
+}
+.cid-tbtDSurFK9 .card-title {
+  text-align: right;
+  color: #176a86;
 }
 .cid-tbdNittnpo {
   padding-top: 30px;
@@ -1171,6 +1296,10 @@ a {
 }
 .cid-tbbSb1OUI1 H4 {
   text-align: right;
+  color: #176a86;
+}
+.cid-tbbSb1OUI1 H3 {
+  color: #176a86;
 }
 .cid-taZuTp9C8i {
   padding-top: 30px;
@@ -1178,7 +1307,7 @@ a {
   background-image: url("../../../assets/images/20festi.logo-1240x1240.jpg");
 }
 .cid-taZuTp9C8i .mbr-section-subtitle {
-  color: #000000;
+  color: #232323;
 }
 .cid-taZuTp9C8i .media-row {
   display: -webkit-flex;
@@ -1694,7 +1823,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tbcV6XOXdH .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7.1rem);
+    max-height: calc(98.5vh - 7.3rem);
   }
 }
 .cid-tbcV6XOXdH .collapsed button.navbar-toggler {
@@ -2145,7 +2274,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tbcV6XOXdH .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 7.1rem);
+    max-height: calc(98.5vh - 7.3rem);
   }
 }
 .cid-tbcV6XOXdH .collapsed button.navbar-toggler {
