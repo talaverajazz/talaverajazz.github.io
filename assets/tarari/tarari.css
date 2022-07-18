@@ -1,5 +1,7 @@
 #tarari{display: none !important;}
-.clients .cid-taZuRdttxm{display:none;}
+
+.cid-taZuRdttxm{display:none;}
+
 @media (max-width: 480px) {
  .cid-taZuTp9C8i .team-item .item-image img {
     width: 60%;
